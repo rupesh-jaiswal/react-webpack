@@ -1,0 +1,7 @@
+.HelloWorld {
+    &-example {
+        @extend .Orw-thin-grey-border;
+        @extend .Orw-border-radius;
+        color: $blue_200;
+    }
+}

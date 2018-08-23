@@ -1,0 +1,33 @@
+#pageHeaders {
+	width:100%;
+	height: 20%;
+	text-align: center;
+	background:cyan;
+}
+
+#login {
+	height:500px;
+	width:40%;border:1px solid black;
+	float:left;
+}
+
+#register {
+	height:500px;
+	border:1px solid black;
+}
+#welcomePageFooter {
+	text-align:center;
+}
+
+.loginContainer {
+	padding:25px;
+	margin-top: 35%;
+	margin-left:0%;
+}
+
+.registerContainer {
+	padding:25px;
+	position: relative;
+	margin-top: 5%;
+	margin-left: 40%;
+}
